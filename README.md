@@ -12,3 +12,5 @@ How to upload Files/Folder to Github
 * Then `git remote add origin https://github.com/SR-Chowdhury/******.git` N.B. The remote link that you will find in the front page of that repository
 * Finally `git push -u origin main`
 ### Done.
+
+N.B. If you face problem: the remote origin cannot found or exit... then type `git remote rm origin`
